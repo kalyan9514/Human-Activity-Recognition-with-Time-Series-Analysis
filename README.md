@@ -1,4 +1,4 @@
-# TimeSeriesAnalysis
+# Human_Activity_Recognition with Time_Series_Analysis
 The main goal is to understand temporal data trends and patterns, enabling informed decisions and predictions about the system's behavior over time.
 
 **Overview:**
